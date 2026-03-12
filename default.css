@@ -1,3 +1,16 @@
-body{
-  background-color:#F08080
-  
+body{ 
+  background-color: #F08080
+  //background-image: url(graphics/dog.png);
+  //background-repeat: no-repeat;
+}
+a:link{
+  color: yellow;
+}
+
+a:visited{
+  color: green;
+}
+
+h3{color: red;
+   font-size: 24px;
+  }
