@@ -26,7 +26,7 @@ body {
 #picture {
     position: absolute;
     top: 100px;
-    right: 650px; /* moves it to the right of content */
+    right: 20px;
 }
 
 #footer {
